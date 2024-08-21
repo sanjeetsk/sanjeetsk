@@ -6,7 +6,7 @@
 - 👨‍💻 I’m a MERN Stack Developer.
 - 🎯 I’m passionate about building efficient web applications and contributing to open-source projects.
 - 🌐 You can check out my portfolio at [myPortfolio](https://sanjeetkumar.netlify.app/) or connect with me on [Linkedin](https://www.linkedin.com/in/sanjeet-kumar-sk/).
-- ✉️ Feel free to reach out to me at [myEmail](ssanjeetkumar67@gmail.com).
+- ✉️ Feel free to reach out to me at [Email Me](mailto:ssanjeetkumar67@gmail.com).
 
 ### Skills
 - JavaScript (Node.js, Express.js)

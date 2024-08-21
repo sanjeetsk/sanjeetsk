@@ -1,4 +1,4 @@
-# Hi, I'm Sanjeet Kumar! ![WaveHiGIF](https://github.com/user-attachments/assets/a6203509-48a8-4df6-8814-82c5069bab80)
+# Hi, I'm Sanjeet Kumar! 👋
 
 
 ### About Me

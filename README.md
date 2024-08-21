@@ -1,11 +1,12 @@
-# Hi, I'm Sanjeet Kumar! 👋
+# Hi, I'm Sanjeet Kumar! ![WaveHiGIF](https://github.com/user-attachments/assets/a6203509-48a8-4df6-8814-82c5069bab80)
+
 
 ### About Me
 - 🌱 I’m currently working at PhonePe Private Limited.
 - 👨‍💻 I’m a MERN Stack Developer.
 - 🎯 I’m passionate about building efficient web applications and contributing to open-source projects.
-- 🌐 You can check out my portfolio at [https://sanjeetkumar.netlify.app/] or connect with me on [https://www.linkedin.com/in/sanjeet-kumar-sk/].
-- ✉️ Feel free to reach out to me at [ssanjeetkumar67@gmail.com].
+- 🌐 You can check out my portfolio at [myPortfolio](https://sanjeetkumar.netlify.app/) or connect with me on [Linkedin](https://www.linkedin.com/in/sanjeet-kumar-sk/).
+- ✉️ Feel free to reach out to me at [myEmail](ssanjeetkumar67@gmail.com).
 
 ### Skills
 - JavaScript (Node.js, Express.js)
